@@ -12,7 +12,7 @@
   font-size: 12rem;
   color: rgb(118, 128, 136);
 }
-#button {
+.button {
   padding: 1rem 2rem;
   outline: none;
   border-radius: 5px;
